@@ -1,0 +1,73 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "de.knk.gaptest"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "de.knk.gaptest"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "de.knk.gaptest"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "de.knk.gaptest"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "de.knk.gaptest"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "de.knk.gaptest"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "de.knk.gaptest"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "de.knk.gaptest"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "de.knk.gaptest"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "de.knk.gaptest"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "de.knk.gaptest"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "de.knk.gaptest"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "de.knk.gaptest"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "de.knk.gaptest"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "de.knk.gaptest"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "de.knk.gaptest"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "de.knk.gaptest"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "de.knk.gaptest"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "de.knk.gaptest"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "de.knk.gaptest"
+        }
+    }
+}
